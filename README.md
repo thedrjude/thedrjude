@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media1.tenor.com/m/-hvBTt9a_n4AAAAC/pengu-pudgy.gif"  />
 </div>
 
